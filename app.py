@@ -291,13 +291,6 @@ def app():
 			st.write(df)
 
 
-
-
-
-
-	st.subheader(' ')
-
-
 			
 
 				
