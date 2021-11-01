@@ -82,8 +82,6 @@ def app():
 
 
 
-		st.markdown("<--------     Also Do checkout the another cool tool from the sidebar")
-
 		Analyzer_choice = st.selectbox("Select the Activities",  ["Show Recent Tweets","Generate WordCloud" ,"Visualize the Sentiment Analysis"])
 
 
